@@ -1,7 +1,7 @@
 Hi, I'm Ahmed Magdy 👋
 ===================================================================================================================================
 
-Frontend Developer || React JS || Angular 
+Software Engineer | Frontend Developer | React.js Developer | Angular Developer 
 ------------------------------
 
 Creative Front-end developer.I studied web development (Html, Css, Saas, Bootstrap, Tailwind, Javascript, jQuery, Reactjs) with strong academic background and some managarial experience. Passionate about creating applications & solutions.
