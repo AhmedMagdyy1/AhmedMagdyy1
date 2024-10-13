@@ -6,9 +6,7 @@ Frontend Developer || React JS || Angular
 
 Creative Front-end developer.I studied web development (Html, Css, Saas, Bootstrap, Tailwind, Javascript, jQuery, Reactjs) with strong academic background and some managarial experience. Passionate about creating applications & solutions.
 
-* 🌍  I'm based in Cairo
 * ✉️  You can contact me at [ahmed10magdy20@gmail.com](mailto:ahmed10magdy20@gmail.com)
-* 🧠  I'm learning React Native and  Node Js
 
 ### Skills
 
